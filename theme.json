@@ -5,17 +5,14 @@
   "homepage": "https://github.com/rasyidrafi/custom-page-sine/",
   "image": "https://github.com/rasyidrafi/custom-page-sine/blob/master/image.png?raw=true",
   "style": {
-    "chrome": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/master/userChrome.css"
+    "chrome": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/master/chrome.css"
   },
   "readme": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/master/README.md",
   "author": "rasyidrafi",
   "version": "2.0.0",
-  "tags": [
-    "custom-page",
-    "javascript",
-    "firefox-ui"
-  ],
+  "tags": ["Customization"],
   "js": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/master/customPage.uc.js",
   "createdAt": "2025-08-03",
-  "updatedAt": "2025-08-03"
+  "updatedAt": "2025-08-03",
+  "fork": ["zen"]
 }
