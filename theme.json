@@ -2,7 +2,7 @@
   "id": "custom-page-mod",
   "name": "Custom Page Mod",
   "description": "Adds a custom page accessible through Firefox UI with JavaScript functionality",
-  "homepage": "https://github.com/rasyidrafi/custom-page-sine",
+  "homepage": "https://github.com/rasyidrafi/custom-page-sine/",
   "image": "https://github.com/rasyidrafi/custom-page-sine/blob/master/image.png?raw=true",
   "style": {
     "chrome": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/master/userChrome.css"
