@@ -3,15 +3,15 @@
   "name": "Custom Page Mod",
   "description": "Adds a custom page accessible through Firefox UI with JavaScript functionality",
   "homepage": "https://github.com/rasyidrafi/custom-page-sine/",
-  "image": "https://github.com/rasyidrafi/custom-page-sine/blob/master/image.png?raw=true",
+  "image": "https://github.com/rasyidrafi/custom-page-sine/blob/main/image.png?raw=true",
   "style": {
-    "chrome": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/master/chrome.css"
+    "chrome": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/main/chrome.css"
   },
-  "readme": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/master/README.md",
+  "readme": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/main/README.md",
   "author": "rasyidrafi",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "tags": ["Customization", "UI"],
-  "js": true,
+  "js": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/main/customPage.uc.js",
   "createdAt": "2025-08-03",
   "updatedAt": "2025-08-03",
   "fork": ["zen", "firefox"]
