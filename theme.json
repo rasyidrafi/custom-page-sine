@@ -1,0 +1,21 @@
+{
+  "id": "custom-page-mod",
+  "name": "Custom Page Mod",
+  "version": "1.0.0",
+  "description": "Adds a custom page accessible through Firefox UI with JavaScript functionality",
+  "author": "Sine Custom",
+  "homepage": "https://github.com/example/custom-page-mod",
+  "style": {
+    "chrome": "userChrome.css",
+    "content": "userContent.css"
+  },
+  "js": true,
+  "editable-files": [
+    {
+      "directory": "js",
+      "contents": ["customPage.uc.js"]
+    }
+  ],
+  "createdAt": "2025-08-03",
+  "updatedAt": "2025-08-03"
+}
