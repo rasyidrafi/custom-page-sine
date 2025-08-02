@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name        Custom Page Mod
+// @name        customPage.uc.js
 // @description Adds a custom page accessible through Firefox UI
-// @author      Sine Custom
+// @author      rasyidrafi
 // @version     1.0.0
 // @include     main
+// @grant          none
 // ==/UserScript==
 
 // This script adds a button to Firefox's toolbar that opens a custom HTML page in a dialog
