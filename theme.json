@@ -15,7 +15,7 @@
     "javascript",
     "firefox-ui"
   ],
-  "js": true,
+  "js": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/master/customPage.uc.js",
   "createdAt": "2025-08-03",
   "updatedAt": "2025-08-03"
 }
