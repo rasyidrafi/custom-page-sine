@@ -10,9 +10,11 @@
   "readme": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/master/README.md",
   "author": "rasyidrafi",
   "version": "2.0.0",
-  "tags": ["Customization"],
-  "js": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/master/customPage.uc.js",
+  "tags": [
+    "Customization",
+    "UI"
+  ],
   "createdAt": "2025-08-03",
   "updatedAt": "2025-08-03",
-  "fork": ["zen"]
+  "fork": ["zen", "firefox"]
 }
