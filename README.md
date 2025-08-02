@@ -26,7 +26,7 @@ Unlike browser extensions which are sandboxed and limited, this Sine mod shows t
 ## 📁 File Structure
 
 ```
-custom-page-mod/
+461d2014-9cdc-4c4c-8e96-2b9df109a952/
 ├── theme.json          # Mod configuration
 ├── userChrome.css      # Firefox UI styling
 ├── userContent.css     # Web content styling (minimal)

@@ -94,7 +94,7 @@
         iframe.id = 'custom-page-content';
         
         // Get the path to our custom HTML file
-        const htmlPath = 'chrome://userscripts/content/sine-mods/custom-page-mod/custom-page.html';
+        const htmlPath = 'chrome://userscripts/content/sine-mods/461d2014-9cdc-4c4c-8e96-2b9df109a952/custom-page.html';
         iframe.src = htmlPath;
         
         dialog.appendChild(closeButton);
@@ -131,7 +131,7 @@
             console.error('❌ Custom Page Mod: Error opening dialog:', error);
             
             // Fallback: Open in new tab if dialog fails
-            const htmlPath = 'chrome://userscripts/content/sine-mods/custom-page-mod/custom-page.html';
+            const htmlPath = 'chrome://userscripts/content/sine-mods/461d2014-9cdc-4c4c-8e96-2b9df109a952/custom-page.html';
             window.open(htmlPath, '_blank');
         }
     }
