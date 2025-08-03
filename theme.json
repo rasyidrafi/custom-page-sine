@@ -1,15 +1,15 @@
 {
   "id": "461d2014-9cdc-4c4c-8e96-2b9df109a952",
   "name": "Custom Page Mod",
-  "description": "Adds a custom page accessible through Firefox UI with JavaScript functionality",
+  "description": "A placeholder to built mods on sine",
   "homepage": "https://github.com/rasyidrafi/custom-page-sine/",
   "image": "https://github.com/rasyidrafi/custom-page-sine/blob/main/image.png?raw=true",
   "style": {
     "chrome": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/main/chrome.css"
   },
   "readme": "https://raw.githubusercontent.com/rasyidrafi/custom-page-sine/refs/heads/main/README.md",
-  "author": "rasyidrafi",
-  "version": "2.0.4",
+  "author": "you",
+  "version": "2.0.5",
   "tags": ["Customization", "UI"],
   "createdAt": "2025-08-03",
   "updatedAt": "2025-08-03",
